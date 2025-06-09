@@ -1,0 +1,4 @@
+# Tammy Caizapanta
+Modelos discretos
+
+

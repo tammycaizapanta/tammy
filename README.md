@@ -1,2 +1,3 @@
-# tammy
-1ra prueba
+# Tammy Caizapanta
+Repositorio para 2do semestre
+
